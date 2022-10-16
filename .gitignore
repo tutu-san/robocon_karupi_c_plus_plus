@@ -1,3 +1,4 @@
 *.exe
 .vscode/
 q.txt
+*.out

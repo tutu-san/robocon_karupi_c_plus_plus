@@ -5,7 +5,7 @@ int main(){
     int keisan;
     
     auto func1 = [](int i, int j) {
-        std::cout << (i + j);
+        std::cout << (i + j) << std::endl;
         return i + j;
     };
     auto func2 = [](double i, double j) -> int {
